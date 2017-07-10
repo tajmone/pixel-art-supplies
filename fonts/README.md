@@ -5,6 +5,8 @@ Welcome to **Pixel-Art Supplies**’ fonts department. Here you’ll find loads 
 
 ------------------------------------------------------------------------
 
+**Table of Contents**
+
 <!-- #toc -->
 -   [Resources List](#resources-list)
 -   [Disclaimer](#disclaimer)

@@ -5,6 +5,8 @@ ByteMap Fonts (`*.bmf`) is an advanced bitmap file format, allowing for extra in
 
 ------------------------------------------------------------------------
 
+**Table of Contents**
+
 <!-- #toc -->
 -   [Resources List](#resources-list)
 -   [Disclaimer](#disclaimer)

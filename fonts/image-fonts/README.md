@@ -5,7 +5,8 @@ Bitmap fonts.
 
 ------------------------------------------------------------------------
 
-<h4>Table of Contents</h4>
+**Table of Contents**
+
 <!-- #toc -->
 -   [Resources List](#resources-list)
 -   [Aknowledgments](#aknowledgments)

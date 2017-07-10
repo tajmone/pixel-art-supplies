@@ -7,7 +7,8 @@ Your favorite Pixel-Art resources supplier. We specialize in freeware distributi
 
 ------------------------------------------------------------------------
 
-<h4>Table of Contents</h4>
+**Table of Contents**
+
 <!-- #toc -->
 -   [Resources List](#resources-list)
 -   [About The Project](#about-the-project)
