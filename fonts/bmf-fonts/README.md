@@ -29,7 +29,7 @@ I assume in good faith that all of these BMF fonts are freeware and redistributa
 Aknowledgments
 ==============
 
-I want to thank CRS from [bmf.php5.cz](http://bmf.php5.cz) for kindly sharing the BFM fonts found in the [`/crs/`](./crs) folder, and for his work of formats conversion.
+I want to thank CRS from [bmf.php5.cz](http://bmf.php5.cz) for kindly sharing the BMF fonts found in the [`/crs/`](./crs) folder, and for his work of formats conversion.
 
 -   <http://bmf.php5.cz>
 
