@@ -20,7 +20,7 @@ Resources List
 ==============
 
 -   [`/bmf-fonts/`](./bmf-fonts/) — ByteMap Fonts (`*.bmf`) department:
-    -   [`/crs/`](./bmf-fonts/crs) — 1132 BMF fonts collection from [bmf.php5.cz](http://bmf.php5.cz/) (courtesy of CRS).
+    -   [`/bmf-cz/`](./bmf-fonts/bmf-cz) — 1132 BMF fonts collection from [bmf.php5.cz](http://bmf.php5.cz/) (courtesy of CRS).
 -   [`/image-fonts/`](./image-fonts/) — Image fonts department:
     -   [`/daniel-guldkrans/`](./image-fonts/daniel-guldkrans/) — 325 fonts (Gif & PNG) from Daniel Guldkrans’ collection (courtesy of [@phracker](https://github.com/phracker)).
 

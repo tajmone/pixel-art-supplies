@@ -26,9 +26,9 @@ Resources List
 The project is newborn and currently offers only bitmap fonts:
 
 -   [`/fonts/`](./fonts/)
-    -   [`/fonts/bmf-fonts/`](./fonts/bmf-fonts/) — ByteMap Fonts department:
-        -   [`/crs/`](./fonts/bmf-fonts/crs) — 1132 BMF fonts collection from [bmf.php5.cz](http://bmf.php5.cz/).
-    -   [`/fonts/image-fonts/`](./fonts/image-fonts/) — Image fonts department:
+    -   [`/bmf-fonts/`](./fonts/bmf-fonts/) — ByteMap Fonts department:
+        -   [`/bmf-cz/`](./fonts/bmf-fonts/bmf-cz) — 1132 BMF fonts collection from [bmf.php5.cz](http://bmf.php5.cz/).
+    -   [`/image-fonts/`](./fonts/image-fonts/) — Image fonts department:
         -   [`/daniel-guldkrans/`](./fonts/image-fonts/daniel-guldkrans/) — 325 fonts (Gif & PNG) from [Daniel Guldkrans’ collection](./fonts/image-fonts/README.md#daniel-guldkrans-collection).
 
 About The Project
