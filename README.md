@@ -23,13 +23,14 @@ Your favorite Pixel-Art resources supplier. We specialize in freeware distributi
 Resources List
 ==============
 
-The project is newborn and currently offers only bitmap fonts:
+The project is newborn and currently offers only bitmap fonts and links to online tutorials:
 
 -   [`/fonts/`](./fonts/)
     -   [`/bmf-fonts/`](./fonts/bmf-fonts/) — ByteMap Fonts department:
         -   [`/bmf-cz/`](./fonts/bmf-fonts/bmf-cz) — 1132 BMF fonts collection from [bmf.php5.cz](http://bmf.php5.cz/).
     -   [`/image-fonts/`](./fonts/image-fonts/) — Image fonts department:
         -   [`/daniel-guldkrans/`](./fonts/image-fonts/daniel-guldkrans/) — 325 fonts (Gif & PNG) from [Daniel Guldkrans’ collection](./fonts/image-fonts/README.md#daniel-guldkrans-collection).
+-   [`/tutorials/`](./tutorials/) — Tutorials department.
 
 About The Project
 =================
