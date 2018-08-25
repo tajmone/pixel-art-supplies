@@ -35,6 +35,8 @@ The project is newborn and currently offers only bitmap fonts and links to onlin
     -   [`/image-fonts/`](./fonts/image-fonts/) — Image fonts department:
         -   [`/daniel-guldkrans/`](./fonts/image-fonts/daniel-guldkrans/) — 325 fonts (Gif & PNG) from [Daniel Guldkrans’ collection](./fonts/image-fonts/README.md#daniel-guldkrans-collection).
 -   [`/tutorials/`](./tutorials/) — Tutorials department.
+- [`Pixel-Art-Game-Engines.md`][Game-Engines] — Curated list of game engines that support Pixel Art 
+
 
 # About The Project
 
@@ -90,5 +92,15 @@ A tool to create color palettes, designed with Pixel Art in mind. PaletteMaker u
 The app is fully standalone and cross-platform, created using [LÖVE] engine (Lua).
 
 
+<!-----------------------------------------------------------------------------
+                               REFERENCE LINKS                                
+------------------------------------------------------------------------------>
+
 
 [LÖVE]: https://love2d.org/ "Visit LÖVE website."
+
+<!-- PROJECT FILES ----------------------------------------------------------->
+
+[Game-Engines]: ./Pixel-Art-Game-Engines.md
+
+<!-- EOF -->
