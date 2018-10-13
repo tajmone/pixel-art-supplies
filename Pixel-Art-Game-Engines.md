@@ -20,6 +20,7 @@ Originally started as a thread on Cosmigo forum:
     - [Anura](#anura)
     - [Construct](#construct)
     - [Ethanon](#ethanon)
+    - [Game Maker](#game-maker)
     - [Godot](#godot)
     - [LÖVE](#l%C3%96ve)
     - [PGE](#pge)
@@ -41,24 +42,26 @@ It might be worth also listing 2D Engines that _don't_ support Pixe Art, and exp
 Here is a table for quick reference of various reknown game engines, further down a more detailed review of some of them.
 
 
-|    egnine   | pixel-art |      develop games in     | has IDE |        license         |
-|-------------|-----------|---------------------------|---------|------------------------|
-| [AGS]       | yes       | via GUI and scripts       | yes     | [Artistic License 2.0] |
-| [Anura]     | yes       | [FML/FFL]                 | yes     | [zlib]                 |
-| [Construct] | yes       | JS / via GUI menus        | yes     | _commercial_           |
-| [Ethanon]   | ???       | [AngelScript]             | yes     | [MIT]                  |
-| [GDevelop]  | ???       | via GUI                   | yes     | [MIT]                  |
-| [Godot]     | yes       | [GDScript] / C# / C++     | yes     | [MIT]                  |
-| [LÖVE]      | yes       | Lua                       | _no_    | [zlib]                 |
-| [PGE]       | 100%      | via GUI menus             | yes     | [GPLv3]                |
-| [Phaser]    | yes       | JavaScript / [TypeScript] | online  | [MIT]                  |
-| [Torque2D]  | ???       | [TorqueScript]            | _no_    | [MIT]                  |
-| [Gate]      | 100%      | [Rust]                    | _no_    | [Apache 2.0]           |
+|    egnine    | pixel-art |      develop games in     | has IDE |        license         |
+|--------------|-----------|---------------------------|---------|------------------------|
+| [AGS]        | yes       | via GUI and scripts       | yes     | [Artistic License 2.0] |
+| [Anura]      | yes       | [FML/FFL]                 | yes     | [zlib]                 |
+| [Construct]  | yes       | JS / via GUI menus        | yes     | _commercial_           |
+| [Ethanon]    | ???       | [AngelScript]             | yes     | [MIT]                  |
+| [Game Maker] | yes       | via GUI / [GML]           | yes     | _commercial_           |
+| [GDevelop]   | ???       | via GUI                   | yes     | [MIT]                  |
+| [Godot]      | yes       | [GDScript] / C# / C++     | yes     | [MIT]                  |
+| [LÖVE]       | yes       | Lua                       | _no_    | [zlib]                 |
+| [PGE]        | 100%      | via GUI menus             | yes     | [GPLv3]                |
+| [Phaser]     | yes       | JavaScript / [TypeScript] | online  | [MIT]                  |
+| [Torque2D]   | ???       | [TorqueScript]            | _no_    | [MIT]                  |
+| [Gate]       | 100%      | [Rust]                    | _no_    | [Apache 2.0]           |
 
 [AGS]: http://www.adventuregamestudio.co.uk/ "Visit Adventure Game Studio website"
 [Anura]: https://github.com/anura-engine/anura
 [Construct]: https://www.scirra.com/
 [Ethanon]: http://ethanonengine.com/
+[Game Maker]: https://www.yoyogames.com/gamemaker "Visit Game Maker website"
 [Gate]: https://github.com/SergiusIW/gate "Visit the Gate project"
 [GDevelop]: https://gdevelop-app.com/
 [Godot]: https://godotengine.org
@@ -67,12 +70,12 @@ Here is a table for quick reference of various reknown game engines, further dow
 [Phaser]: http://phaser.io/
 [Torque2D]: https://github.com/GarageGames/Torque2D
 
-
 <!-- LANGUAGES -->
 
 [AngelScript]: http://www.angelcode.com/angelscript/
 [FML/FFL]: https://frogatto.com/2010/07/18/how-frogatto-formula-language-ffl-works/ "Info about Frogatto Markup Language (FML) and Frogatto Formula Language (FFL)"
 [GDScript]: http://docs.godotengine.org/en/3.0/getting_started/scripting/gdscript/gdscript_basics.html "Info about GDScript"
+[GML]: https://it.wikipedia.org/wiki/Game_Maker_Language "Wikipedia page on Game Maker Language"
 [Rust]: https://www.rust-lang.org "Info about Rust"
 [TorqueScript]: https://github.com/GarageGames/Torque2D/wiki/Torquescript-overview "Info about TorqueScript"
 [TypeScript]: http://www.typescriptlang.org/ "Info about TypeScript"
@@ -118,6 +121,15 @@ A cross-platform and open source 2D game engine programmable in [AngelScript] th
 Ethanon is designed with 2D graphics and lights effects in mind: it supports pixel shaders, static and dynamic lights, shadows, normal mapping, height and specular maps, and particles — and it works well with pixel art, especially if you are looking for special light and fire effects. 
 
 
+## Game Maker
+
+- https://www.yoyogames.com/gamemaker
+
+Game Maker is a family of commercial game engines by YoYo Games.
+
+Game Maker supports Pixel Art.
+
+
 ## Godot
 
 - https://godotengine.org
@@ -140,6 +152,7 @@ LÖVE doesn't have an IDE, and games must be programmed in Lua language. Many [t
 - http://wohlsoft.ru/PGE/
 
 PGE (Platform Game Engine) if a free and open source engine and IDE for creating _Super Mario Bros._ style platform games without programming, via the [PGE Editor]'s menus. The PGE engine is 100% pixel art oriented.
+
 
 
 <!-----------------------------------------------------------------------------
