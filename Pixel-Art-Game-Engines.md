@@ -11,7 +11,8 @@ Originally started as a thread on Cosmigo forum:
 
 **Table of Contents**
 
-<!-- MarkdownTOC autolink="true" bracket="round" autoanchor="false" lowercase="only_ascii" uri_encoding="true" levels="1,2,3" -->
+
+<!-- MarkdownTOC autolink="true" bracket="round" autoanchor="false" lowercase="only_ascii" uri_encoding="true" levels="1,2,3,4" -->
 
 - [Game Engines and Pixel Art](#game-engines-and-pixel-art)
 - [Game Engines Table](#game-engines-table)
@@ -28,6 +29,8 @@ Originally started as a thread on Cosmigo forum:
 <!-- /MarkdownTOC -->
 
 -----
+
+
 
 # Game Engines and Pixel Art
 
@@ -164,8 +167,8 @@ PGE (Platform Game Engine) if a free and open source engine and IDE for creating
 
 [godot-isometric-framework]: https://github.com/mfdeveloper/godot-isometric-framework "View the project on GitHub"
 
-[LÖVE libs]: https://love2d.org/wiki/Category:Libraries "Visit the Libraries section of LÖVE’s Wiki"
+[LÖVE libs]: https://love2d.org/wiki/Category:Libraries "Visit the Libraries section of LÖVE's Wiki"
 
-[PGE Editor]: https://wohlsoft.ru/pgewiki/PGE_Editor "Visit 'PGE Editor' page on PGE’s Wiki"
+[PGE Editor]: https://wohlsoft.ru/pgewiki/PGE_Editor "Visit 'PGE Editor' page on PGE's Wiki"
 
 <!-- eof -->
