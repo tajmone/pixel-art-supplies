@@ -81,6 +81,14 @@ Feel free to create new sections in the project. Currently the project is too ne
 
 Some links to third party resources which might be of interest to the pixel artist.
 
+## Image and Sprite Tools
+
+### PixelArtHive Pixel Art Upscaler
+
+- https://pixelarthive.com/pixel-art-upscaler
+
+A free browser tool for resizing existing sprites. Use nearest-neighbor at whole-number scales to preserve the original hard edges and colors. Images are processed locally.
+
 ## Color Tools
 
 ### PaletteMaker
